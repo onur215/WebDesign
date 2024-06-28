@@ -154,6 +154,7 @@ footer {
   width: 50%;
   height: 30%;
   padding: 1rem;
+  overflow: auto;
 }
 
 .wwDO {
@@ -162,6 +163,7 @@ footer {
   width: 50%;
   height: 30%;
   padding: 1rem;
+  overflow: auto;
 }
 
 .aboutText {
@@ -170,4 +172,5 @@ footer {
   width: 50%;
   height: 30%;
   padding: 1rem;
+  overflow: auto;
 }
